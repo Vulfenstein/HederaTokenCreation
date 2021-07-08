@@ -1,0 +1,16 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "",
+  "main": "token_create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.0.24",
+    "dotenv": "^10.0.0"
+  }
+}
